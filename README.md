@@ -5,7 +5,7 @@ I am a faculty member of the College of Computer Studies of [De La Salle Univers
 I received my Bachelor of Science in Computer Science degree from DLSU in 2017. After a year, I received my Master of Science in Computer Science degree from both DLSU and the [National Taiwan University of Science and Technology (NTUST)](https://www.ntust.edu.tw/home.php?Lang=en), as part of the ladderized BS-MS program and the Dual Masters Program. My master's thesis introduced a computationally efficient way of fusing features from different layers of convolutional neural networks, which resulted to faster and more accurate general object detection compared to state-of-the-art techniques.
 
 - I am currently working on researches on Computer Vision and Deep Learning.
-- Check out my website at [https://arvention.github.io/](https://arvention.github.io/)
+- Check out my research, resume, and teaching background at [https://arvention.github.io/](https://arvention.github.io/)
 - For research collaborations, you may contact me via email.
 
 <!--
